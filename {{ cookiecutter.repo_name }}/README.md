@@ -1,5 +1,3 @@
-==============================
-
 <div id="top"></div>
 <!--
 *** Thanks for checking out the {{cookiecutter.project_name}} webscraping bot. If you have a suggestion
@@ -119,7 +117,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```Git Clone
-   git clone https://github.com/{username}/{{cookiecutter.project_name}}
+   git clone git@github.com:{username}/{{cookiecutter.project_name}}.git
    ```
 2. Virtual Environment
    ```sh
@@ -289,4 +287,4 @@ Use this link to get a list resources you might find helpful. It also contains a
 [product-screenshot]: references/imgs/mxa.jpg
 
 
-<p><small>Project based on the <a target="_blank" href="https://animantiu,.github.io/cut-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookie-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
