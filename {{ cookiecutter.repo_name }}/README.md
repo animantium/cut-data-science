@@ -22,7 +22,7 @@
 <br /> 
 <div align="center">
   <a href="https://github.com/{username}/{{cookiecutter.project_name}}">
-    <img src="/reports/figures/{{cookiecutter.project_name}}_logo.png" alt="Logo" width="500" height="250">
+    <img src="/reports/figures/{{cookiecutter.project_name}}_logo.jpg" alt="Logo" width="500" height="250">
   </a>
 
   <h3 align="center">{{cookiecutter.project_name}}</h3>
@@ -284,7 +284,7 @@ Use this link to get a list resources you might find helpful. It also contains a
 [license-url]: https://github.com/{username}/{{cookiecutter.project_name}}/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: [https://linkedin.com/in/donleygustave](https://www.linkedin.com/in/donleygustave/)
-[product-screenshot]: /reports/figures/{{cookiecutter.project_name}}_product.png
+[product-screenshot]: /reports/figures/{{cookiecutter.project_name}}_product.jpg
 
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookie-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
