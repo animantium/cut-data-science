@@ -7,7 +7,7 @@
 *** or simply open an issue with the tag "enhancement".
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D 
-*** Replace {{cookiecutter.user_name}} with username
+*** Replace {username} with username
 -->
 
 
@@ -23,7 +23,7 @@
 <!-- PROJECT LOGO -->
 <br /> 
 <div align="center">
-  <a href="https://github.com/{{cookiecutter.user_name}}/{{cookiecutter.project_name}}">
+  <a href="https://github.com/{username}/{{cookiecutter.project_name}}">
     <img src="references/imgs/{{cookiecutter.project_name}}.png" alt="Logo" width="500" height="250">
   </a>
 
@@ -32,14 +32,14 @@
   <p align="center">
     Try demo for {{cookiecutter.project_name}} if applicable. 
     <br />
-    <a href="https://github.com/{{cookiecutter.user_name}}/{{cookiecutter.project_name}}"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/{username}/{{cookiecutter.project_name}}"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/{{cookiecutter.user_name}}/{{cookiecutter.project_name}}">View Demo</a>
+    <a href="https://github.com/{username}/{{cookiecutter.project_name}}">View Demo</a>
     ·
-    <a href="https://github.com/{{cookiecutter.user_name}}/{{cookiecutter.project_name}}/issues">Report Bug</a>
+    <a href="https://github.com/{username}/{{cookiecutter.project_name}}/issues">Report Bug</a>
     ·
-    <a href="https://github.com/{{cookiecutter.user_name}}/{{cookiecutter.project_name}}/issues">Request Feature</a>
+    <a href="https://github.com/{username}/{{cookiecutter.project_name}}/issues">Request Feature</a>
   </p>
 </div>
 
@@ -119,7 +119,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```Git Clone
-   git clone https://github.com/{{cookiecutter.user_name}}/{{cookiecutter.project_name}}
+   git clone https://github.com/{username}/{{cookiecutter.project_name}}
    ```
 2. Virtual Environment
    ```sh
@@ -147,7 +147,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 This space is used to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For examples, please refer to the [Documentation]("https://github.com/{{cookiecutter.user_name}}/{{cookiecutter.project_name}}". After completing installations. 
+_For examples, please refer to the [Documentation]("https://github.com/{username}/{{cookiecutter.project_name}}". After completing installations. 
 
    Use environment verses downloading all dependencies
    ```sh
@@ -220,7 +220,7 @@ _For examples, please refer to the [Documentation]("https://github.com/{{cookiec
 - [ ] Add "components" for other related MXA to MXC datapump issues until the product is sunsetted. 
 
 
-See the [open issues](https://github.com/{{cookiecutter.user_name}}/MXAISOAGENT/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/{username}/MXAISOAGENT/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -256,7 +256,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/{{cookiecutter.user_name}}/{{cookiecutter.project_name}}](https://github.com/{{cookiecutter.user_name}}/{{cookiecutter.project_name}})
+Project Link: [https://github.com/{username}/{{cookiecutter.project_name}}](https://github.com/{username}/{{cookiecutter.project_name}})
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -267,23 +267,23 @@ Project Link: [https://github.com/{{cookiecutter.user_name}}/{{cookiecutter.proj
 
 Use this link to get a list resources you might find helpful. It also contains a list of resources I would like to give credit to. 
 
-* [REFRENCES](https://github.com/{{cookiecutter.user_name}}/{{cookiecutter.project_name}}/references/references.txt)
+* [REFRENCES](https://github.com/{username}/{{cookiecutter.project_name}}/references/references.txt)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/{{cookiecutter.user_name}}/{{cookiecutter.project_name}}.svg?style=for-the-badge
-[contributors-url]: https://github.com/{{cookiecutter.user_name}}/{{cookiecutter.project_name}}graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/{{cookiecutter.user_name}}/{{cookiecutter.project_name}}.svg?style=for-the-badge
-[forks-url]: https://github.com/{{cookiecutter.user_name}}/{{cookiecutter.project_name}}/network/members
-[stars-shield]: https://img.shields.io/github/stars/{{cookiecutter.user_name}}/{{cookiecutter.project_name}}.svg?style=for-the-badge
-[stars-url]: https://github.com/{{cookiecutter.user_name}}/{{cookiecutter.project_name}}/stargazers
-[issues-shield]: https://img.shields.io/github/issues/{{cookiecutter.user_name}}/{{cookiecutter.project_name}}.svg?style=for-the-badge
-[issues-url]: https://github.com/{{cookiecutter.user_name}}/{{cookiecutter.project_name}}/issues
-[license-shield]: https://img.shields.io/github/license/{{cookiecutter.user_name}}/{{cookiecutter.project_name}}.svg?style=for-the-badge
-[license-url]: https://github.com/{{cookiecutter.user_name}}/{{cookiecutter.project_name}}/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/{username}/{{cookiecutter.project_name}}.svg?style=for-the-badge
+[contributors-url]: https://github.com/{username}/{{cookiecutter.project_name}}graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/{username}/{{cookiecutter.project_name}}.svg?style=for-the-badge
+[forks-url]: https://github.com/{username}/{{cookiecutter.project_name}}/network/members
+[stars-shield]: https://img.shields.io/github/stars/{username}/{{cookiecutter.project_name}}.svg?style=for-the-badge
+[stars-url]: https://github.com/{username}/{{cookiecutter.project_name}}/stargazers
+[issues-shield]: https://img.shields.io/github/issues/{username}/{{cookiecutter.project_name}}.svg?style=for-the-badge
+[issues-url]: https://github.com/{username}/{{cookiecutter.project_name}}/issues
+[license-shield]: https://img.shields.io/github/license/{username}/{{cookiecutter.project_name}}.svg?style=for-the-badge
+[license-url]: https://github.com/{username}/{{cookiecutter.project_name}}/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: [https://linkedin.com/in/othneildrew](https://www.linkedin.com/in/donleygustave/)
 [product-screenshot]: references/imgs/mxa.jpg
