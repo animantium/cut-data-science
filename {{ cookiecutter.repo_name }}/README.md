@@ -22,7 +22,7 @@
 <br /> 
 <div align="center">
   <a href="https://github.com/{username}/{{cookiecutter.project_name}}">
-    <img src="references/imgs/{{cookiecutter.project_name}}.png" alt="Logo" width="500" height="250">
+    <img src="references/figures/rme/{{cookiecutter.project_name}}_logo.png" alt="Logo" width="500" height="250">
   </a>
 
   <h3 align="center">{{cookiecutter.project_name}}</h3>
@@ -218,7 +218,7 @@ _For examples, please refer to the [Documentation]("https://github.com/{username
 - [ ] Add "components" for other related MXA to MXC datapump issues until the product is sunsetted. 
 
 
-See the [open issues](https://github.com/{username}/MXAISOAGENT/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/{username}/{{cookiecutter.project_name}}/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -273,7 +273,7 @@ Use this link to get a list resources you might find helpful. It also contains a
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/{username}/{{cookiecutter.project_name}}.svg?style=for-the-badge
-[contributors-url]: https://github.com/{username}/{{cookiecutter.project_name}}graphs/contributors
+[contributors-url]: https://github.com/{username}/{{cookiecutter.project_name}}/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/{username}/{{cookiecutter.project_name}}.svg?style=for-the-badge
 [forks-url]: https://github.com/{username}/{{cookiecutter.project_name}}/network/members
 [stars-shield]: https://img.shields.io/github/stars/{username}/{{cookiecutter.project_name}}.svg?style=for-the-badge
@@ -284,7 +284,7 @@ Use this link to get a list resources you might find helpful. It also contains a
 [license-url]: https://github.com/{username}/{{cookiecutter.project_name}}/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: [https://linkedin.com/in/othneildrew](https://www.linkedin.com/in/donleygustave/)
-[product-screenshot]: references/imgs/mxa.jpg
+[product-screenshot]: references/figures/rme/{{cookiecutter.project_name}}_product.png
 
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookie-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
